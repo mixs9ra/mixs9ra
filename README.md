@@ -55,7 +55,12 @@
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Selenium.svg" alt="Xcode" width="50" height="50" />
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/youtrack.png" alt="Xcode" width="50" height="50" />
+
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/openai.png" alt="Xcode" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/miro.png" alt="Xcode" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/draw.io.png" alt="Xcode" width="50" height="50" />
 
 ## Мои контакты
 
