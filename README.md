@@ -20,7 +20,7 @@
 
 ## Мое CV 
 
-[Нажимать сюда](https://ссылочку_сюда)
+[Нажимать сюда](https://github.com/mixs9ra/mixs9ra/blob/main/icons/Resume-cv.pdf)
 
  
 ## Инструменты и технологии
