@@ -27,13 +27,8 @@
 ## Инструменты и технологии
 
 <p align="left">
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Bash-Dark.svg" alt="Qase.io" width="50" height="50" />
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Figma-Dark.svg" alt="TestIT" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Idea-Dark.svg" alt="TestRail" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Docker.svg" alt="Zephyr" width="50" height="50" />
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/AndroidStudio-Dark.svg" alt="Charles" width="50" height="50" />
 
@@ -43,19 +38,10 @@
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/VSCode-Dark.svg" alt="Grafana" width="50" height="50" />
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Git.svg" alt="Firebase" width="50" height="50" /> 
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Github-Dark.svg" alt="Sentry" width="50" height="50" />
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Java-Dark.svg" alt="Sentry" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Jenkins-Dark.svg" alt="Codemagic" width="50" height="50" /> 
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Maven-Dark.svg" alt="Teamcity" width="50" height="50" />
-
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Notion-Dark.svg" alt="Testflight" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Selenium.svg" alt="Xcode" width="50" height="50" />
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/youtrack.png" alt="Xcode" width="50" height="50" />
 
@@ -64,6 +50,31 @@
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/miro.png" alt="Xcode" width="50" height="50" />
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/draw.io.png" alt="Xcode" width="50" height="50" />
+
+## Изучаю
+
+<p align="left">
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Selenium.svg" alt="Xcode" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Java-Dark.svg" alt="Sentry" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Jenkins-Dark.svg" alt="Codemagic" width="50" height="50" /> 
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Maven-Dark.svg" alt="Teamcity" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Bash-Dark.svg" alt="Qase.io" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Idea-Dark.svg" alt="TestRail" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Docker.svg" alt="Zephyr" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Java-Dark.svg" alt="Sentry" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Jenkins-Dark.svg" alt="Codemagic" width="50" height="50" /> 
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Maven-Dark.svg" alt="Teamcity" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Git.svg" alt="Firebase" width="50" height="50" /> 
 
 ## Мои контакты
 
