@@ -55,6 +55,8 @@
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Git.svg" alt="Firebase" width="50" height="50" /> 
 
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/grafana.png" alt="Grafana" width="50" height="50" />
+
 ## Мои контакты
 
 [![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/belashev-denis/)
