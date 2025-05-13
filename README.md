@@ -1,6 +1,7 @@
 # Приветсвую 🧑🏻‍💻
 
 👋 Я **Денис** - **Junior QA Engineer в МойСклад (Логнекс)**.
+
 Специализируюсь на ручном тестировании. 
 Фокусируюсь на качестве ✅, бизнес-логике 📊 и стабильной работе продукта 🔧
 <div align="center">
@@ -39,12 +40,6 @@
 
 <p align="left">
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Selenium.svg" alt="Xcode" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Java-Dark.svg" alt="Sentry" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Jenkins-Dark.svg" alt="Codemagic" width="50" height="50" /> 
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Maven-Dark.svg" alt="Teamcity" width="50" height="50" />
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Bash-Dark.svg" alt="Qase.io" width="50" height="50" />
 
