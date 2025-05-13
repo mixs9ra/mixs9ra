@@ -36,6 +36,12 @@
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/draw.io.png" alt="Xcode" width="50" height="50" />
 
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/okd.png" alt="OKD" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/allure.jpg" alt="Allure" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/jira.jpeg" alt="Jira" width="50" height="50" />
+
 ## Изучаю
 
 <p align="left">
@@ -56,6 +62,8 @@
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Git.svg" alt="Firebase" width="50" height="50" /> 
 
 <img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/grafana.png" alt="Grafana" width="50" height="50" />
+
+<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/kibana.png" alt="Kibana" width="50" height="50" />
 
 ## Мои контакты
 
