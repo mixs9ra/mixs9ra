@@ -1,9 +1,9 @@
 # Приветсвую 🧑🏻‍💻
 
-👋Я **Денис** — **Junior QA Engineer в [МойСклад (Логнекс)](https://www.moysklad.ru/)**.
+👋 Я **Денис** — **QA Engineer (Backend) в [МойСклад (Логнекс)](https://www.moysklad.ru/)**.
 
-Специализируюсь на ручном тестировании. 
-Фокусируюсь на качестве ✅, бизнес-логике 📊 и стабильной работе продукта 🔧
+Фокусируюсь на тестировании backend-сервисов ⚙️, API 🔌, интеграций 🔗 и бизнес-логики 📊.  
+Также работаю с веб-интерфейсами 🌐, desktop и мобильными приложениями 📱💻.
 <div align="center">
     <img src="https://media1.tenor.com/m/pXe5Lu_fQgUAAAAd/shaquille-oneal-taste-test.gif" width="400" height="300" alt="GIF">
 </div>
