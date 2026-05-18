@@ -1,74 +1,91 @@
-# Приветсвую 🧑🏻‍💻
+# Денис Белашев
 
-👋 Я **Денис** — **QA Engineer (Backend) в [МойСклад (Логнекс)](https://www.moysklad.ru/)**.
+Backend QA Engineer @ МойСклад
 
-Фокусируюсь на тестировании backend-сервисов ⚙️, API 🔌, интеграций 🔗 и бизнес-логики 📊.  
-Также работаю с веб-интерфейсами 🌐, desktop и мобильными приложениями 📱💻.
-<div align="center">
-    <img src="https://media1.tenor.com/m/pXe5Lu_fQgUAAAAd/shaquille-oneal-taste-test.gif" width="400" height="300" alt="GIF">
-</div>
-
- 
-## Инструменты и технологии
-
-<p align="left">
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Figma-Dark.svg" alt="TestIT" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/AndroidStudio-Dark.svg" alt="Charles" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Android%20file%20transfer.png" alt="Fiddler" width="50" height="50" /> 
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Postman.svg" alt="Proxyman" width="50" height="50" /> 
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/VSCode-Dark.svg" alt="Grafana" width="50" height="50" />
+Тестирую backend-сервисы и веб-интерфейс продукта, REST API, интеграции, бизнес-логику.
+Основной фокус — backend QA, API и интеграционные проверки.  
+Развиваюсь в автоматизации тестирования на Java: API-тесты, UI-тесты, CI/CD и архитектура тестовых фреймворков.
 
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Github-Dark.svg" alt="Sentry" width="50" height="50" />
+---
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Notion-Dark.svg" alt="Testflight" width="50" height="50" />
+## Основной стек
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/youtrack.png" alt="Xcode" width="50" height="50" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,idea,postman" />
+</p>
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/openai.png" alt="Xcode" width="50" height="50" />
+### Технологии
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/miro.png" alt="Xcode" width="50" height="50" />
+- REST API
+- HTTP / JSON
+- SQL
+- PostgreSQL
+- Client-server architecture
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/draw.io.png" alt="Xcode" width="50" height="50" />
+### Инструменты
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/okd.png" alt="OKD" width="50" height="50" />
+- Postman
+- Chrome DevTools
+- Kibana
+- OpenAPI / Swagger
+- OKD / OpenShift
+- Git
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/allure.jpg" alt="Allure" width="50" height="50" />
+---
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/jira.jpeg" alt="Jira" width="50" height="50" />
+## Что умею на практике
 
-## Изучаю
+- Тестировать веб-интерфейс продукта, десктопную и мобильную кассу
+- Тестировать REST API: позитивные и негативные сценарии, валидация ответов, статусы и структура JSON
+- Анализировать backend-логи и ошибки через Kibana
+- Работать с SQL-запросами для проверки данных в PostgreSQL
+- Проверять интеграции между сервисами и бизнес-логику
+- Локализовывать дефекты и оформлять понятные баг-репорты
+- Работать с тестовой документацией: чек-листы, тест-кейсы, тест-планы
 
-<p align="left">
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Selenium.svg" alt="Xcode" width="50" height="50" />
+---
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Bash-Dark.svg" alt="Qase.io" width="50" height="50" />
+## Сейчас развиваю
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Idea-Dark.svg" alt="TestRail" width="50" height="50" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,selenium,jenkins,maven,gradle" />
+</p>
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Docker.svg" alt="Zephyr" width="50" height="50" />
+- Java
+- Selenium WebDriver
+- JUnit
+- Maven / Gradle
+- Jenkins
+- Allure
+- Автоматизацию API и UI-тестов
+- Архитектуру тестовых фреймворков
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Java-Dark.svg" alt="Sentry" width="50" height="50" />
+---
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Jenkins-Dark.svg" alt="Codemagic" width="50" height="50" /> 
+## Цели развития
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Maven-Dark.svg" alt="Teamcity" width="50" height="50" />
+Сейчас развиваюсь в направлении:
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/Git.svg" alt="Firebase" width="50" height="50" /> 
+- Test Automation на Java
+- CI/CD для автотестов
+- Архитектура тестовых framework'ов
+- Углубление в backend и Java Development
 
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/grafana.png" alt="Grafana" width="50" height="50" />
-
-<img src="https://github.com/mixs9ra/mixs9ra/blob/main/icons/kibana.png" alt="Kibana" width="50" height="50" />
+---
 
 ## Мои контакты
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/belashev-denis/)
-<a href="mailto:DB.DenisBelashev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="height: 20px;"></a>
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mixs9ra)
+<p>
+  <a href="https://www.linkedin.com/in/belashev-denis/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
+  <a href="mailto:DB.DenisBelashev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <a href="https://t.me/mixs9ra">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</p>
